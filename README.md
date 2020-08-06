@@ -1,8 +1,6 @@
-# Repositório da Semana Omnistack 10
+# Repositório da Semana Omnistack 10 (TinDev)
 
-## TinDev
-
-# Skills:
+## Skills:
 - Node.js
 - React 
 - React Native
@@ -10,17 +8,13 @@
 - WebSocket
 - API Rest
 
-# Requisitos:
+## Requisitos:
 - Node.js
 - Yarn
 - Git
 - Expo
 
-# Para executar:
-`git clone https://github.com/giraudgabriel/Multiroom-Chat.git`
-<br>
-<br>
-# Web:
+## Web:
 ```
 cd web
 yarn install
@@ -31,7 +25,7 @@ yarn start
 <img src="images/web.png">
 <br>
 
-# Mobile:
+## Mobile:
 ```
 cd mobile
 yarn install
@@ -46,7 +40,7 @@ yarn start
 
 <br>
 
-# Backend:
+## Backend:
 ```
 cd backend
 yarn install
